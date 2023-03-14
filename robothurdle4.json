@@ -1,0 +1,1074 @@
+{
+  "robots": [
+    {
+      "x": 13,
+      "y": 1,
+      "_orientation": 0,
+      "objects": {},
+      "_is_leaky": true,
+      "_prev_x": 12,
+      "_prev_y": 1,
+      "_prev_orientation": 3,
+      "_trace_history": [
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 70,
+          "x": 110,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 2,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 110,
+          "x": 150,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 3,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 150,
+          "x": 190,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 4,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 190,
+          "x": 190,
+          "prev_y": 210,
+          "y": 200,
+          "grid_x": 4,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 190,
+          "x": 190,
+          "prev_y": 210,
+          "y": 160,
+          "grid_x": 4,
+          "grid_y": 2
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 190,
+          "x": 190,
+          "prev_y": 170,
+          "y": 160,
+          "grid_x": 4,
+          "grid_y": 2
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 190,
+          "x": 190,
+          "prev_y": 170,
+          "y": 120,
+          "grid_x": 4,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 190,
+          "x": 190,
+          "prev_y": 130,
+          "y": 120,
+          "grid_x": 4,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 190,
+          "x": 180,
+          "prev_y": 120,
+          "y": 120,
+          "grid_x": 4,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 180,
+          "x": 180,
+          "prev_y": 120,
+          "y": 130,
+          "grid_x": 4,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 180,
+          "x": 190,
+          "prev_y": 130,
+          "y": 130,
+          "grid_x": 4,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 180,
+          "x": 230,
+          "prev_y": 130,
+          "y": 130,
+          "grid_x": 5,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 230,
+          "x": 230,
+          "prev_y": 130,
+          "y": 120,
+          "grid_x": 5,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 230,
+          "x": 220,
+          "prev_y": 120,
+          "y": 120,
+          "grid_x": 5,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 220,
+          "x": 220,
+          "prev_y": 120,
+          "y": 130,
+          "grid_x": 5,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 220,
+          "x": 220,
+          "prev_y": 120,
+          "y": 170,
+          "grid_x": 5,
+          "grid_y": 2
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 220,
+          "x": 220,
+          "prev_y": 160,
+          "y": 210,
+          "grid_x": 5,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 220,
+          "x": 230,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 5,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 220,
+          "x": 270,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 6,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 270,
+          "x": 270,
+          "prev_y": 210,
+          "y": 200,
+          "grid_x": 6,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 270,
+          "x": 270,
+          "prev_y": 210,
+          "y": 160,
+          "grid_x": 6,
+          "grid_y": 2
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 270,
+          "x": 270,
+          "prev_y": 170,
+          "y": 160,
+          "grid_x": 6,
+          "grid_y": 2
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 270,
+          "x": 270,
+          "prev_y": 170,
+          "y": 120,
+          "grid_x": 6,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 270,
+          "x": 270,
+          "prev_y": 130,
+          "y": 120,
+          "grid_x": 6,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 270,
+          "x": 270,
+          "prev_y": 130,
+          "y": 80,
+          "grid_x": 6,
+          "grid_y": 4
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 270,
+          "x": 270,
+          "prev_y": 90,
+          "y": 80,
+          "grid_x": 6,
+          "grid_y": 4
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 270,
+          "x": 270,
+          "prev_y": 90,
+          "y": 40,
+          "grid_x": 6,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 270,
+          "x": 270,
+          "prev_y": 50,
+          "y": 40,
+          "grid_x": 6,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 270,
+          "x": 260,
+          "prev_y": 40,
+          "y": 40,
+          "grid_x": 6,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 260,
+          "x": 260,
+          "prev_y": 40,
+          "y": 50,
+          "grid_x": 6,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 260,
+          "x": 270,
+          "prev_y": 50,
+          "y": 50,
+          "grid_x": 6,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 260,
+          "x": 310,
+          "prev_y": 50,
+          "y": 50,
+          "grid_x": 7,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 310,
+          "x": 310,
+          "prev_y": 50,
+          "y": 40,
+          "grid_x": 7,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 310,
+          "x": 300,
+          "prev_y": 40,
+          "y": 40,
+          "grid_x": 7,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 300,
+          "x": 300,
+          "prev_y": 40,
+          "y": 50,
+          "grid_x": 7,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 300,
+          "x": 300,
+          "prev_y": 40,
+          "y": 90,
+          "grid_x": 7,
+          "grid_y": 4
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 300,
+          "x": 300,
+          "prev_y": 80,
+          "y": 130,
+          "grid_x": 7,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 300,
+          "x": 300,
+          "prev_y": 120,
+          "y": 170,
+          "grid_x": 7,
+          "grid_y": 2
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 300,
+          "x": 300,
+          "prev_y": 160,
+          "y": 210,
+          "grid_x": 7,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 300,
+          "x": 310,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 7,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 300,
+          "x": 350,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 8,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 350,
+          "x": 350,
+          "prev_y": 210,
+          "y": 200,
+          "grid_x": 8,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 350,
+          "x": 350,
+          "prev_y": 210,
+          "y": 160,
+          "grid_x": 8,
+          "grid_y": 2
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 350,
+          "x": 350,
+          "prev_y": 170,
+          "y": 160,
+          "grid_x": 8,
+          "grid_y": 2
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 350,
+          "x": 350,
+          "prev_y": 170,
+          "y": 120,
+          "grid_x": 8,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 350,
+          "x": 350,
+          "prev_y": 130,
+          "y": 120,
+          "grid_x": 8,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 350,
+          "x": 350,
+          "prev_y": 130,
+          "y": 80,
+          "grid_x": 8,
+          "grid_y": 4
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 350,
+          "x": 350,
+          "prev_y": 90,
+          "y": 80,
+          "grid_x": 8,
+          "grid_y": 4
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 350,
+          "x": 350,
+          "prev_y": 90,
+          "y": 40,
+          "grid_x": 8,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 350,
+          "x": 350,
+          "prev_y": 50,
+          "y": 40,
+          "grid_x": 8,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 350,
+          "x": 340,
+          "prev_y": 40,
+          "y": 40,
+          "grid_x": 8,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 340,
+          "x": 340,
+          "prev_y": 40,
+          "y": 50,
+          "grid_x": 8,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 340,
+          "x": 350,
+          "prev_y": 50,
+          "y": 50,
+          "grid_x": 8,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 340,
+          "x": 390,
+          "prev_y": 50,
+          "y": 50,
+          "grid_x": 9,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 390,
+          "x": 390,
+          "prev_y": 50,
+          "y": 40,
+          "grid_x": 9,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 390,
+          "x": 380,
+          "prev_y": 40,
+          "y": 40,
+          "grid_x": 9,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 380,
+          "x": 380,
+          "prev_y": 40,
+          "y": 50,
+          "grid_x": 9,
+          "grid_y": 5
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 380,
+          "x": 380,
+          "prev_y": 40,
+          "y": 90,
+          "grid_x": 9,
+          "grid_y": 4
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 380,
+          "x": 380,
+          "prev_y": 80,
+          "y": 130,
+          "grid_x": 9,
+          "grid_y": 3
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 380,
+          "x": 380,
+          "prev_y": 120,
+          "y": 170,
+          "grid_x": 9,
+          "grid_y": 2
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 380,
+          "x": 380,
+          "prev_y": 160,
+          "y": 210,
+          "grid_x": 9,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 380,
+          "x": 390,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 9,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 380,
+          "x": 430,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 10,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 420,
+          "x": 470,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 11,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 460,
+          "x": 510,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 12,
+          "grid_y": 1
+        },
+        {
+          "color": "cyan",
+          "thickness": 2,
+          "prev_x": 500,
+          "x": 550,
+          "prev_y": 210,
+          "y": 210,
+          "grid_x": 13,
+          "grid_y": 1
+        }
+      ],
+      "_trace_style": "default",
+      "_trace_color": "cyan",
+      "__id": 4,
+      "model": "light blue",
+      "initial_position": [
+        1,
+        1
+      ]
+    }
+  ],
+  "small_tiles": false,
+  "rows": 5,
+  "cols": 14,
+  "background_image": "worlds/images/stadium.png",
+  "goal": {
+    "possible_final_positions": [
+      [
+        13,
+        1
+      ]
+    ],
+    "position": {
+      "image": "racing_flag",
+      "x": 13,
+      "y": 1
+    }
+  },
+  "walls": {
+    "4,1": [
+      "east"
+    ],
+    "4,2": [
+      "east"
+    ],
+    "6,1": [
+      "east"
+    ],
+    "6,2": [
+      "east"
+    ],
+    "6,3": [
+      "east"
+    ],
+    "6,4": [
+      "east"
+    ],
+    "8,1": [
+      "east"
+    ],
+    "8,2": [
+      "east"
+    ],
+    "8,3": [
+      "east"
+    ],
+    "8,4": [
+      "east"
+    ]
+  },
+  "_CORRECT_PATH": [
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      7,
+      5
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      7,
+      1
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      8,
+      3
+    ],
+    [
+      8,
+      4
+    ],
+    [
+      8,
+      5
+    ],
+    [
+      9,
+      5
+    ],
+    [
+      9,
+      4
+    ],
+    [
+      9,
+      3
+    ],
+    [
+      9,
+      2
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      11,
+      1
+    ],
+    [
+      12,
+      1
+    ],
+    [
+      13,
+      1
+    ]
+  ],
+  "_CORRECT_PATH_COLOR": "darkslategray",
+  "tiles": {
+    "1,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "2,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "3,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "4,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "4,2": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "4,3": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "5,3": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "5,2": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "5,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "6,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "6,2": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "6,3": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "6,4": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "6,5": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "7,5": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "7,4": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "7,3": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "7,2": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "7,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "8,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "8,2": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "8,3": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "8,4": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "8,5": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "9,5": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "9,4": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "9,3": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "9,2": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "9,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "10,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "11,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "12,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ],
+    "13,1": [
+      "rgba(255, 255, 255, 0.5)"
+    ]
+  },
+  "description": [
+    "<h1>Hurdles race</h1>",
+    "Reeborg has entered a hurdle race. ",
+    "Make him run the course, following the path shown.<br><br>",
+    "<em>The position, the height and the number of hurdles changes each time this world is reloaded.</em>",
+    "<h3>What you need to know</h3>",
+    "<p>You should be able to write programs that are valid for worlds <b>Around 4</b> and <b>Hurdles 3</b>,",
+    "and ot combine them for this last hurdles race.</p>",
+    "<p>Your program should also be valid for worlds",
+    "<b>Hurdles 1</b>, <b>Hurdles 2</b> et <b>Hurdles 3</b></p>",
+    "DIFFICULTY5",
+    "<p>Background image: <a href='https://www.pexels.com/photo/action-athletes-audience-ball-270154/'>www.pexels.com</a></p>"
+  ],
+  "pre": [
+    "RUR.show_path(RUR.public['path'], \"darkslategray\");",
+    ""
+  ],
+  "post": [
+    "RUR.public.my_check(\"Reeborg did not follow the correct path.\");",
+    ""
+  ],
+  "onload": [
+    "var x, y, height, last_element;",
+    "RUR.public['path'] = [[1, 1]]",
+    "RUR.set_model('light blue');",
+    "RUR._set_trace_color_('cyan');",
+    "",
+    "function append_unique(pt) {",
+    "    var last, arr = RUR.public.path;",
+    "    if (arr[arr.length -1] === undefined) {",
+    "        arr.push([pt[0], pt[1]]);",
+    "        return;",
+    "    }",
+    "    last = arr[arr.length-1];",
+    "    if (last[0] == pt[0] && last[1] == pt[1]) {",
+    "        return;",
+    "    }",
+    "    arr.push([pt[0], pt[1]]);",
+    "}",
+    "// build a random path",
+    "for (x=1; x <= 12; x++) {",
+    "    if (RUR.randint(1, 2)==1) {",
+    "        height = RUR.randint(1, 4);",
+    "        for (y=1; y<=height; y++) {",
+    "            RUR.add_wall(\"east\", x, y);",
+    "            append_unique([x, y+1]);",
+    "        }",
+    "        append_unique([x+1, height+1])",
+    "        for(y=height; y>=1; y--) {",
+    "            append_unique([x+1, y]);",
+    "        }",
+    "    }",
+    "    append_unique([x+1, 1]);",
+    "}",
+    "",
+    "// We show the desired path very clearly;  in the",
+    "// Pre editor, we will set it to be less visible",
+    "RUR.show_path(RUR.public['path'], 'black');",
+    "",
+    "// We also add semi-transparent tiles over the background",
+    "// image to show the desired path. We define a function",
+    "// as we will need to redo this once the path is trimmed",
+    "RUR.public.show_background = function () {",
+    "    for (i=0; i < RUR.public.path.length; i++ ){",
+    "        x = RUR.public.path[i][0];",
+    "        y = RUR.public.path[i][1];",
+    "        RUR.add_colored_tile('rgba(255, 255, 255, 0.5)', x, y);",
+    "    }",
+    "}",
+    "RUR.public.show_background();",
+    "",
+    "// Since RUR.public['path'] is defined, setting the following to true ",
+    "// and not simply a truthy value, will make the grid show ONLY on",
+    "// the path",
+    "",
+    "RUR.state.visible_grid = true;",
+    "// The following is going to be called in the Post editor",
+    "// we want users to be able to use either Python or Javascript",
+    "// to solve this task - so we cannot have Python or Javascript",
+    "// specific syntax in either the Pre or the Post editor",
+    "",
+    "RUR.public.my_check = function (failure) {",
+    "    if ( RUR.check_path(RUR.public['path']) ) {",
+    "        return; // nothing else required.",
+    "    }",
+    "",
+    "    // The program did not work ... let's show all the required",
+    "    // feedback in essentially one step",
+    "    recording(false); // do not record a new frame for each action",
+    "",
+    "    //let's make the background picture less visible",
+    "    // by covering the entire background with semi-transparent black tiles",
+    "    RUR.fill_background('rgba(0, 0, 0, 0.6)');",
+    "    // We also show the path again",
+    "    RUR.show_path(RUR.public['path'], 'orange');",
+    "   ",
+    "    // all desired changes done; ready to show them",
+    "    recording(true);",
+    "",
+    "    // finally, we throw an error to end the execution",
+    "    // and record the final frame",
+    "    throw new RUR.ReeborgError(failure);",
+    "}",
+    ""
+  ]
+}
